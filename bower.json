@@ -1,0 +1,27 @@
+{
+  "name": "parse-svg",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Gagan Bansal <gaganbansal123@gmail.com>"
+  ],
+  "description": "Parse svg string to svg DOM element.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "svg",
+    "parse",
+    "dom"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gagan-bansal/parse-svg",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
